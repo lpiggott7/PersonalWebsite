@@ -1,0 +1,45 @@
+html {
+   background: linear-gradient(45deg, pink 40%, yellow)       
+}
+
+li {
+   font-family: sans-serif;
+   display: inline;
+   padding-right: 30px;
+}
+
+h1 {
+
+   font-family: sans-serif;
+}
+
+h3 {
+
+   font-family: sans-serif;
+}
+
+p {
+
+   font-family: sans-serif;
+}
+
+a:link {
+   background-color: transparent;
+   text-decoration: none;
+}
+
+a:visited {
+   color: black;
+   background-color: transparent;
+   text-decoration: none;
+}
+
+a:hover {
+   color: gray;
+   background-color: transparent;
+   text-decoration: underline;
+}
+
+img {
+   padding-bottom: 20px;
+}
